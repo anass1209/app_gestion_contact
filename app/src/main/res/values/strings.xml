@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LastTP</string>
+    <string name="id">ID : </string>
+    <string name="name">Name : </string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="update">Update</string>
+</resources>
